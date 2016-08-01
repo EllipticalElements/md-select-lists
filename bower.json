@@ -1,6 +1,6 @@
 {
   "name": "md-select-lists",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "authors": [
     "S. Francis"
   ],
@@ -41,7 +41,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "elliptical-polymer-behaviors": "~1.2.0",
-    "sass-md-components": "~1.1.8",
+    "sass-md-components": "~1.2.1",
     "md-input": "~1.2.0"
   },
   "devDependencies": {
