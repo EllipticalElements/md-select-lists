@@ -168,7 +168,7 @@
                 id: id,
                 name: name
             };
-            this.element.trigger('md.state.select.change', data);
+            this.fire('md-state-select-change', data);
         },
 
         _setDisabled: function () {

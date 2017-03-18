@@ -357,7 +357,7 @@
                 id: id,
                 name: name
             };
-            this.element.trigger('md.country.select.change', data);
+            this.fire('md-country-select-change', data);
         },
 
         _setDisabled: function () {
